@@ -21,7 +21,6 @@
 | Rust | [ymstar/mbdpay-rust](https://github.com/ymstar/mbdpay-rust) | crates.io | ✅ |
 | C# (.NET) | [ymstar/mbdpay-csharp](https://github.com/ymstar/mbdpay-csharp) | NuGet | ✅ |
 | TypeScript | [ymstar/mbdpay-ts](https://github.com/ymstar/mbdpay-ts) | npm | ✅ |
-| Java | 本仓库 `java/` | Maven | ✅ |
 
 ### WordPress 支付插件（独立开源）
 
