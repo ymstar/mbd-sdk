@@ -1,0 +1,12 @@
+[submodule "ruby"]
+	path = ruby
+	url = https://github.com/ymstar/mbdpay-ruby
+[submodule "rust"]
+	path = rust
+	url = https://github.com/ymstar/mbdpay-rust
+[submodule "csharp"]
+	path = csharp
+	url = https://github.com/ymstar/mbdpay-csharp
+[submodule "typescript"]
+	path = typescript
+	url = https://github.com/ymstar/mbdpay-ts

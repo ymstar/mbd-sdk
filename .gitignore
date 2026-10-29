@@ -1,0 +1,17 @@
+# Build artifacts
+java/target/
+rust/target/
+csharp/**/bin/
+csharp/**/obj/
+
+# Ruby
+ruby/.bundle/
+ruby/Gemfile.lock
+ruby/pkg/
+ruby/*.gem
+
+# IDE
+.idea/
+.vscode/
+*.swp
+.DS_Store
